@@ -1,6 +1,9 @@
+
 git stash
 
 3rd stash
 
 second stash
 sample
+
+New commit
